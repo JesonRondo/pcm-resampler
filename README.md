@@ -1,2 +1,3 @@
 # pcm-resampler
-PCM data resampler
+
+Source code not public.
